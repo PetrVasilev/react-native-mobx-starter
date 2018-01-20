@@ -1,0 +1,3 @@
+rootProject.name = 'RobohouseBluetoothApp'
+
+include ':app'
